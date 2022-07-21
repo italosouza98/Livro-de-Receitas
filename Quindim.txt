@@ -1,0 +1,36 @@
+<html>
+<head>
+<title> DIO </title>
+</head>
+<body>
+<h1><b> Quindim </b></h1> 
+<h2><br>Ingredientes</h2>
+<h4><br>9 un de gema de ovo
+<br>1 un de canela em pau
+<br>1 xíc de coco ralado fresco
+<br>1 cl sopa de manteiga
+<br>250 g de açúcar refinado
+<br>1 1/4 xíc de água
+<br>1 un de cravo-da-índia
+<br>1 pitada de sal</h4>
+
+<hr> 
+<h2> Modo de Preparo </h2><p>
+1.
+Ferva a água com o açúcar, a canela e o cravo. Cozinhe por 8 minutos. Desligue o fogo.
+<br>2.
+Junte a manteiga e deixe-a derreter. Deixe a calda amornar e descarte o cravo e a canela.
+<br>3.
+Passe as gemas por uma peneira para retirar a película (que geralmente deixa um gosto forte de ovos).
+<br>4.
+Acrescente o sal e o extrato de baunilha às gemas e misture.
+<br>5.
+Junte as gemas à calda de açúcar e misture.
+<br>6.
+Leve a mistura a 6 ou 8 formas de silicone ou forminhas de alumínio untadas com manteiga e açúcar.
+<br>7.
+Asse em banho-maria por 30 minutos a 180 C. Insira um palito no meio do quindim, Se sair seco, está pronto.
+<br>8.
+Se usar formas de silicone, basta virar de cabeça para baixo que o quindim se solta. No caso de formas de alumínio, passe uma faca nas bordas para soltar o doce.
+</h4>
+</body>
